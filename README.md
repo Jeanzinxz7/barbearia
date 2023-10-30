@@ -1,45 +1,11 @@
 # barbearia
 Jean
-### Tópicos 
-
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
-
-:small_blue_diamond: [Funcionalidades](#funcionalidades)
-
-:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação)
-
-:small_blue_diamond: [Objetivos](#objetivos)
-
-:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
-
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
-
-:small_blue_diamond: [Desenvolvedores](#desenvolvedores)
-
-:small_blue_diamond: [Instrutores](#instrutores)
 
 ## Descrição do projeto 
 
 <p align="justify">
   Aprendendo os fundamentos do zero ao avançado em HTML e CSS para o desenvolvimento de uma página para Web através da formação Front-end da <a href="https://www.alura.com.br/">Alura</a> e criando do zero a página completa da Barbearia Alura.
 </p>
-
-## Funcionalidades
-
-:heavy_check_mark: Parte 1: Crie uma página da Web.
-
-:heavy_check_mark: Parte 2: Posicionamento, listas e navegação.
-
-:heavy_check_mark: Parte 3: Trabalhando com formulários e tabelas.
-
-:heavy_check_mark: Parte 4: Avançando no CSS.
-
-## Deploy da Aplicação
-
-> Link do deploy da aplicação com Vercel: https://barbearia-alura-leocbm.vercel.app/
-
-> Imagem Representativa da página
-![image](https://user-images.githubusercontent.com/54343955/185690551-340b770c-d160-4f52-91f0-eb323bf55799.png)
 
 ## Objetivos
 - `Parte 01`
@@ -53,7 +19,7 @@ Nós vamos criar textos, imagens, blocos de conteúdo, listas de informações; 
 
 Após todos esses conhecimentos, seremos capazes de construir a página Home da Barbearia Alura.
 
-![image](https://user-images.githubusercontent.com/54343955/184180402-3aa6d974-12ee-4f65-bb5d-0b0c395b12f3.png)
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fexame.com%2Fcasual%2Fdonos-das-barbearias-querem-sair-da-quarentena-e-reabrir-os-saloes%2F&psig=AOvVaw1CTsENfY3M9zx9o_6O_oF7&ust=1698760675782000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCLjvhuj2nYIDFQAAAAAdAAAAABAD
 
 O que aprendemos:
 - Uma introdução ao HTML e às suas tags
